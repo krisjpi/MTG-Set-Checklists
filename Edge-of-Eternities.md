@@ -2,63 +2,61 @@ Edge of Eternities (EoE) - Released Aug 1st 2025
 
 
 White
-- [ ]	Dockworker Drone	| {1}{W} |	Artifact Creature	C	Marco Gorlei
-- [ ]	Starfighter Pilot	| {1}{W} |	Creature	C	Nathaniel Himawan
-- [ ]	Brightspear Zealot |	{2}{W} |	Creature	C	Bryan Sola
-- [ ]	Exosuit Savior |	{2}{W}	| Creature	C	Benjamin Ee
-- [ ]	Flight-Deck Coordinator |	{2}{W} |	Creature	C	Diego Gisbert
-- [ ]	Banishing Light |	{2}{W} |	Enchantment	C	Rovina Cai
-- [ ]	Zealous Display |	{2}{W} |	Instant	C	Chris Rallis
-- [ ]	Knight Luminary |	{3}{W} |	Creature	C	Aaron Miller
-- [ ]	Luxknight Breacher |	{3}{W} |	Creature	C	Cristi Balanescu
-- [ ]	Radiant Strike |	{3}{W} |	Instant	C	Aleksi Briclot
-- [ ]	Auxiliary Boosters |	{4}{W} |	Artifact	C	Dmitry Burmak
-- [ ]	Weftblade Enhancer |	{5}{W} |	Creature	C	Nathaniel Himawan
-- [ ]	Squire's Lightblade |	{W}	Artifact |	C	Edgar Sánchez Hidalgo
-- [ ]	Starport Security |	{W} |	Artifact Creature	C	Lie Setiawan
-- [ ]	Focus Fire |	{W}	Instant	| C	Borja Pindado
-- [ ]	Honored Knight-Captain	{1}{W}	Creature	U	Forrest Imel
-- [ ]	Pulsar Squadron Ace	{1}{W}	Creature	U	Javier Charro
-- [ ]	Sunstar Expansionist	{1}{W}	Creature	U	Mark Poole
-- [ ]	Dual-Sun Technique	{1}{W}	Instant	U	Ioannis Fiore
-- [ ]	Dual-Sun Adepts	{2}{W}	Creature	U	Ioannis Fiore
-- [ ]	Rayblade Trooper	{2}{W}	Creature	U	Cristi Balanescu
-- [ ]	Emergency Eject	{2}{W}	Instant	U	Leon Tukker
-- [ ]	Scout for Survivors	{2}{W}	Sorcery	U	Greg Staples
-- [ ]	Wedgelight Rammer	{3}{W}	Artifact	U	Nadia Hurianova
-- [ ]	All-Fates Stalker	{3}{W}	Creature	U	Lius Lasahido
-- [ ]	Sunstar Lightsmith	{3}{W}	Creature	U	Jarel Threat
-- [ ]	Starfield Shepherd	{3}{W}{W}	Creature	U	Marta Nael
-- [ ]	Starfield Shepherd	{3}{W}{W}	Creature	U	Marta Nael
-- [ ]	Rescue Skiff	{5}{W}	Artifact	U	Viko Menezes
-- [ ]	Dawnstrike Vanguard	{5}{W}	Creature	U	Arif Wijaya
-- [ ]	Seam Rip	{W}	Enchantment	U	Sam Guay
-- [ ]	Reroute Systems	{W}	Instant	U	Sergey Glushakov
-- [ ]	Honor	{W}	Sorcery	U	Eli Minaya
-- [ ]	Lumen-Class Frigate	{1}{W}	Artifact	R	Zezhou Chen
-- [ ]	Lumen-Class Frigate	{1}{W}	Artifact	R	Zezhou Chen
-- [ ]	Sunstar Chaplain	{1}{W}	Creature	R	Valera Lutfullina
-- [ ]	Sunstar Chaplain	{1}{W}	Creature	R	Valera Lutfullina
-- [ ]	Pinnacle Starcage	{1}{W}{W}	Artifact	R	Leon Tukker
-- [ ]	Pinnacle Starcage	{1}{W}{W}	Artifact	R	Leon Tukker
-- [ ]	The Seriema	{1}{W}{W}	Lgd. Artifact	R	Sergey Glushakov
-- [ ]	The Seriema	{1}{W}{W}	Lgd. Artifact	R	Sergey Glushakov
-- [ ]	Haliya, Guided by Light	{2}{W}	Lgd. Creature	R	Kieran Yanner
-- [ ]	Haliya, Guided by Light	{2}{W}	Lgd. Creature	R	Eleonor Piteira
-- [ ]	Astelli Reclaimer	{3}{W}{W}	Creature	R	Carly Milligan
-- [ ]	Astelli Reclaimer	{3}{W}{W}	Creature	R	Benjamin Ee
-- [ ]	Beyond the Quiet	{3}{W}{W}	Sorcery	R	Yohann Schepacz
-- [ ]	Beyond the Quiet	{3}{W}{W}	Sorcery	R	Serena Malyon
-- [ ]	Lightstall Inquisitor	{W}	Creature	R	Arif Wijaya
-- [ ]	Lightstall Inquisitor	{W}	Creature	R	Arif Wijaya
-- [ ]	Hardlight Containment	{W}	Enchantment	R	Dominik Mayer
-- [ ]	Hardlight Containment	{W}	Enchantment	R	Dominik Mayer
-- [ ]	Cosmogrand Zenith	{2}{W}	Creature	M	Anna Steinbauer
-- [ ]	Cosmogrand Zenith	{2}{W}	Creature	M	Marlene Yui
-- [ ]	Exalted Sunborn	{3}{W}{W}	Creature	M	Scott M. Fischer
-- [ ]	Exalted Sunborn	{3}{W}{W}	Creature	M	Scott M. Fischer
-- [ ]	Exalted Sunborn	{3}{W}{W}	Creature	M	Makoron
-- [ ]	Exalted Sunborn	{3}{W}{W}	Creature	M	Makoron
+- [ ]	Cryogen Relic	  |  	{1}{U}	  |  	Artifact	  |  	C	  |  	Eelis Kyttanen
+- [ ]	Illvoi Light Jammer	  |  	{1}{U}	  |  	Artifact	  |  	C	  |  	David Álvarez
+- [ ]	Mechan Shieldmate	  |  	{1}{U}	  |  	Artifact Creature	  |  	C	  |  	Daniel Ljunggren
+- [ ]	Illvoi Operative	  |  	{1}{U}	  |  	Creature	  |  	C	  |  	Quintin Gleim
+- [ ]	Divert Disaster	  |  	{1}{U}	  |  	Instant	  |  	C	  |  	David Álvarez
+- [ ]	Mental Modulation	  |  	{1}{U}	  |  	Instant	  |  	C	  |  	Andreia Ugrai
+- [ ]	Nanoform Sentinel	  |  	{2}{U}	  |  	Artifact Creature	  |  	C	  |  	Tianxing Xu
+- [ ]	Cloudsculpt Technician	  |  	{2}{U}	  |  	Creature	  |  	C	  |  	Elizabeth Peiró
+- [ ]	Sinister Cryologist	  |  	{2}{U}	  |  	Creature	  |  	C	  |  	Domenico Cava
+- [ ]	Selfcraft Mechan	  |  	{3}{U}	  |  	Artifact Creature	  |  	C	  |  	Milivoj Ćeran
+- [ ]	Lost in Space	  |  	{3}{U}	  |  	Instant	  |  	C	  |  	Allen Panakal
+- [ ]	Starbreach Whale	  |  	{4}{U}	  |  	Creature	  |  	C	  |  	Sam Burley
+- [ ]	Mechanozoa	  |  	{4}{U}{U}	  |  	Artifact Creature	  |  	C	  |  	Daarken
+- [ ]	Illvoi Galeblade	  |  	{U}	  |  	Creature	  |  	C	  |  	Nathaniel Himawan
+- [ ]	Cryoshatter	  |  	{U}	  |  	Enchantment	  |  	C	  |  	Jeremy Wilson
+- [ ]	Mechan Navigator	  |  	{1}{U}	  |  	Artifact Creature	  |  	U	  |  	Konstantin Porubov
+- [ ]	Steelswarm Operator	  |  	{1}{U}	  |  	Artifact Creature	  |  	U	  |  	Cristi Balanescu
+- [ ]	Desculpting Blast	  |  	{1}{U}	  |  	Instant	  |  	U	  |  	Jeremy Wilson
+- [ ]	Unravel	  |  	{1}{U}{U}	  |  	Instant	  |  	U	  |  	Josh Hass
+- [ ]	Codecracker Hound	  |  	{2}{U}	  |  	Creature	  |  	U	  |  	Julia Metzger
+- [ ]	Illvoi Infiltrator	  |  	{2}{U}	  |  	Creature	  |  	U	  |  	Paolo Parente
+- [ ]	Uthros Psionicist	  |  	{2}{U}	  |  	Creature	  |  	U	  |  	Inkognit
+- [ ]	Tractor Beam	  |  	{2}{U}{U}	  |  	Enchantment	  |  	U	  |  	Sergey Glushakov
+- [ ]	Uthros Scanship	  |  	{3}{U}	  |  	Artifact	  |  	U	  |  	Sergey Glushakov
+- [ ]	Scour for Scrap	  |  	{3}{U}	  |  	Instant	  |  	U	  |  	Filip Burburan
+- [ ]	Mechan Assembler	  |  	{4}{U}	  |  	Artifact Creature	  |  	U	  |  	Mirko Failoni
+- [ ]	Gigastorm Titan	  |  	{4}{U}	  |  	Creature	  |  	U	  |  	Bryan Sola
+- [ ]	Cerebral Download	  |  	{4}{U}	  |  	Instant	  |  	U	  |  	Antonio José Manzanedo
+- [ ]	Specimen Freighter	  |  	{5}{U}	  |  	Artifact	  |  	U	  |  	Sergey Glushakov
+- [ ]	Mouth of the Storm	  |  	{6}{U}	  |  	Creature	  |  	U	  |  	Domenico Cava
+- [ ]	Atomic Microsizer	  |  	{U}	  |  	Artifact	  |  	U	  |  	Gabor Szikszai
+- [ ]	Annul	  |  	{U}	  |  	Instant	  |  	U	  |  	Carlos Palma Cruchaga
+- [ ]	Annul	  |  	{U}	  |  	Instant	  |  	U	  |  	Carlos Palma Cruchaga
+- [ ]	Emissary Escort	  |  	{1}{U}	  |  	Artifact Creature	  |  	R	  |  	Igor Grechanyi
+- [ ]	Emissary Escort	  |  	{1}{U}	  |  	Artifact Creature	  |  	R	  |  	Igor Grechanyi
+- [ ]	Emissary Escort	  |  	{1}{U}	  |  	Artifact Creature	  |  	R	  |  	Lius Lasahido
+- [ ]	Consult the Star Charts	  |  	{1}{U}	  |  	Instant	  |  	R	  |  	Antonio José Manzanedo
+- [ ]	Consult the Star Charts	  |  	{1}{U}	  |  	Instant	  |  	R	  |  	Antonio José Manzanedo
+- [ ]	Moonlit Meditation	  |  	{2}{U}	  |  	Enchantment	  |  	R	  |  	Liiga Smilshkalne
+- [ ]	Moonlit Meditation	  |  	{2}{U}	  |  	Enchantment	  |  	R	  |  	Liiga Smilshkalne
+- [ ]	Starfield Vocalist	  |  	{3}{U}	  |  	Creature	  |  	R	  |  	Nathaniel Himawan
+- [ ]	Starfield Vocalist	  |  	{3}{U}	  |  	Creature	  |  	R	  |  	Nathaniel Himawan
+- [ ]	Mm'menon, the Right Hand	  |  	{3}{U}{U}	  |  	Lgd. Creature	  |  	R	  |  	Joshua Raphael
+- [ ]	Mm'menon, the Right Hand	  |  	{3}{U}{U}	  |  	Lgd. Creature	  |  	R	  |  	Dominik Mayer
+- [ ]	Starwinder	  |  	{5}{U}{U}	  |  	Creature	  |  	R	  |  	Devin Elle Kurtz
+- [ ]	Starwinder	  |  	{5}{U}{U}	  |  	Creature	  |  	R	  |  	Justin Hernandez & Alexis Hernandez
+- [ ]	Starwinder	  |  	{5}{U}{U}	  |  	Creature	  |  	R	  |  	Cacho Rubione
+- [ ]	Synthesizer Labship	  |  	{U}	  |  	Artifact	  |  	R	  |  	Adrián Rodríguez Pérez
+- [ ]	Synthesizer Labship	  |  	{U}	  |  	Artifact	  |  	R	  |  	Adrián Rodríguez Pérez
+- [ ]	Starfield Vocalist	  |  	{3}{U}	  |  	Creature	  |  	M	  |  	nina
+- [ ]	Starfield Vocalist	  |  	{3}{U}	  |  	Creature	  |  	M	  |  	nina
+- [ ]	Quantum Riddler	  |  	{3}{U}{U}	  |  	Creature	  |  	M	  |  	Izzy
+- [ ]	Quantum Riddler	  |  	{3}{U}{U}	  |  	Creature	  |  	M	  |  	Cacho Rubione
+- [ ]	Weftwalking	  |  	{4}{U}{U}	  |  	Enchantment	  |  	M	  |  	Rovina Cai
+- [ ]	Weftwalking	  |  	{4}{U}{U}	  |  	Enchantment	  |  	M	  |  	Rovina Cai
 
 
 Blue
