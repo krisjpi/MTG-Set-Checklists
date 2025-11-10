@@ -487,3 +487,188 @@
 - [ ]	Magus of the Moon	  |  	{2}{R}	  |  	Creature	  |  	M	  |  	David Robert Hovey
 - [ ]	Nexus of Fate	  |  	{5}{U}{U}	  |  	Instant	  |  	M	  |  	Gaboleps
 - [ ]	Sliver Overlord	  |  	{W}{U}{B}{R}{G}	  |  	Lgd. Creature	  |  	M	  |  	James Bousema
+
+### Stellar Sights
+#### Rare
+- [ ]	Blast Zone	  |  	Land	  |  	R	  |  	Chad Weatherford
+- [ ]	Blast Zone	  |  	Land	  |  	R	  |  	William Phifer
+- [ ]	Blast Zone	  |  	Land	  |  	R	  |  	Chad Weatherford
+- [ ]	Blast Zone	  |  	Land	  |  	R	  |  	William Phifer
+- [ ]	Blinkmoth Nexus	  |  	Land	  |  	R	  |  	Calder Moore
+- [ ]	Blinkmoth Nexus	  |  	Land	  |  	R	  |  	Meel Tamphanon
+- [ ]	Blinkmoth Nexus	  |  	Land	  |  	R	  |  	Calder Moore
+- [ ]	Blinkmoth Nexus	  |  	Land	  |  	R	  |  	Meel Tamphanon
+- [ ]	Bonders' Enclave	  |  	Land	  |  	R	  |  	Eleonor Piteira
+- [ ]	Bonders' Enclave	  |  	Land	  |  	R	  |  	BEMOCS
+- [ ]	Bonders' Enclave	  |  	Land	  |  	R	  |  	Eleonor Piteira
+- [ ]	Bonders' Enclave	  |  	Land	  |  	R	  |  	BEMOCS
+- [ ]	Cascading Cataracts	  |  	Land	  |  	R	  |  	Andrew Mar
+- [ ]	Cascading Cataracts	  |  	Land	  |  	R	  |  	Sam Chivers
+- [ ]	Cascading Cataracts	  |  	Land	  |  	R	  |  	Andrew Mar
+- [ ]	Cascading Cataracts	  |  	Land	  |  	R	  |  	Sam Chivers
+- [ ]	Cathedral of War	  |  	Land	  |  	R	  |  	Jason A. Engle
+- [ ]	Cathedral of War	  |  	Land	  |  	R	  |  	William Phifer
+- [ ]	Cathedral of War	  |  	Land	  |  	R	  |  	Jason A. Engle
+- [ ]	Cathedral of War	  |  	Land	  |  	R	  |  	William Phifer
+- [ ]	Celestial Colonnade	  |  	Land	  |  	R	  |  	Andrew Mar
+- [ ]	Celestial Colonnade	  |  	Land	  |  	R	  |  	Ann-Sophie De Steur
+- [ ]	Celestial Colonnade	  |  	Land	  |  	R	  |  	Andrew Mar
+- [ ]	Celestial Colonnade	  |  	Land	  |  	R	  |  	Ann-Sophie De Steur
+- [ ]	Contested War Zone	  |  	Land	  |  	R	  |  	Josu Solano
+- [ ]	Contested War Zone	  |  	Land	  |  	R	  |  	Aeron Ng
+- [ ]	Contested War Zone	  |  	Land	  |  	R	  |  	Josu Solano
+- [ ]	Contested War Zone	  |  	Land	  |  	R	  |  	Aeron Ng
+- [ ]	Creeping Tar Pit	  |  	Land	  |  	R	  |  	Calder Moore
+- [ ]	Creeping Tar Pit	  |  	Land	  |  	R	  |  	Matteo Bassini
+- [ ]	Creeping Tar Pit	  |  	Land	  |  	R	  |  	Calder Moore
+- [ ]	Creeping Tar Pit	  |  	Land	  |  	R	  |  	Matteo Bassini
+- [ ]	Crystal Quarry	  |  	Land	  |  	R	  |  	Craig Elliott
+- [ ]	Crystal Quarry	  |  	Land	  |  	R	  |  	Jack Hughes
+- [ ]	Crystal Quarry	  |  	Land	  |  	R	  |  	Craig Elliott
+- [ ]	Crystal Quarry	  |  	Land	  |  	R	  |  	Jack Hughes
+- [ ]	Echoing Deeps	  |  	Land	  |  	R	  |  	Alayna Danner
+- [ ]	Echoing Deeps	  |  	Land	  |  	R	  |  	Sam Chivers
+- [ ]	Echoing Deeps	  |  	Land	  |  	R	  |  	Alayna Danner
+- [ ]	Echoing Deeps	  |  	Land	  |  	R	  |  	Sam Chivers
+- [ ]	Eldrazi Temple	  |  	Land	  |  	R	  |  	Calder Moore
+- [ ]	Eldrazi Temple	  |  	Land	  |  	R	  |  	BEMOCS
+- [ ]	Eldrazi Temple	  |  	Land	  |  	R	  |  	Calder Moore
+- [ ]	Eldrazi Temple	  |  	Land	  |  	R	  |  	BEMOCS
+- [ ]	Endless Sands	  |  	Land	  |  	R	  |  	Tim Brumley
+- [ ]	Endless Sands	  |  	Land	  |  	R	  |  	WFlemming Illustration
+- [ ]	Endless Sands	  |  	Land	  |  	R	  |  	Tim Brumley
+- [ ]	Endless Sands	  |  	Land	  |  	R	  |  	WFlemming Illustration
+- [ ]	High Market	  |  	Land	  |  	R	  |  	Andrew Theophilopoulos
+- [ ]	High Market	  |  	Land	  |  	R	  |  	WFlemming Illustration
+- [ ]	High Market	  |  	Land	  |  	R	  |  	Andrew Theophilopoulos
+- [ ]	High Market	  |  	Land	  |  	R	  |  	WFlemming Illustration
+- [ ]	Hissing Quagmire	  |  	Land	  |  	R	  |  	John Thacker
+- [ ]	Hissing Quagmire	  |  	Land	  |  	R	  |  	William Phifer
+- [ ]	Hissing Quagmire	  |  	Land	  |  	R	  |  	John Thacker
+- [ ]	Hissing Quagmire	  |  	Land	  |  	R	  |  	William Phifer
+- [ ]	Lavaclaw Reaches	  |  	Land	  |  	R	  |  	Jinho Bae
+- [ ]	Lavaclaw Reaches	  |  	Land	  |  	R	  |  	Matteo Bassini
+- [ ]	Lavaclaw Reaches	  |  	Land	  |  	R	  |  	Jinho Bae
+- [ ]	Lavaclaw Reaches	  |  	Land	  |  	R	  |  	Matteo Bassini
+- [ ]	Lumbering Falls	  |  	Land	  |  	R	  |  	Daniel Romanovsky
+- [ ]	Lumbering Falls	  |  	Land	  |  	R	  |  	Aeron Ng
+- [ ]	Lumbering Falls	  |  	Land	  |  	R	  |  	Daniel Romanovsky
+- [ ]	Lumbering Falls	  |  	Land	  |  	R	  |  	Aeron Ng
+- [ ]	Meteor Crater	  |  	Land	  |  	R	  |  	Chad Weatherford
+- [ ]	Meteor Crater	  |  	Land	  |  	R	  |  	Ann-Sophie De Steur
+- [ ]	Meteor Crater	  |  	Land	  |  	R	  |  	Chad Weatherford
+- [ ]	Meteor Crater	  |  	Land	  |  	R	  |  	Ann-Sophie De Steur
+- [ ]	Mystifying Maze	  |  	Land	  |  	R	  |  	Pierre Loyvet
+- [ ]	Mystifying Maze	  |  	Land	  |  	R	  |  	Lee Art
+- [ ]	Mystifying Maze	  |  	Land	  |  	R	  |  	Pierre Loyvet
+- [ ]	Mystifying Maze	  |  	Land	  |  	R	  |  	Lee Art
+- [ ]	Needle Spires	  |  	Land	  |  	R	  |  	Lorenzo Lanfranconi
+- [ ]	Needle Spires	  |  	Land	  |  	R	  |  	BEMOCS
+- [ ]	Needle Spires	  |  	Land	  |  	R	  |  	Lorenzo Lanfranconi
+- [ ]	Needle Spires	  |  	Land	  |  	R	  |  	BEMOCS
+- [ ]	Nesting Grounds	  |  	Land	  |  	R	  |  	John Thacker
+- [ ]	Nesting Grounds	  |  	Land	  |  	R	  |  	WFlemming Illustration
+- [ ]	Nesting Grounds	  |  	Land	  |  	R	  |  	John Thacker
+- [ ]	Nesting Grounds	  |  	Land	  |  	R	  |  	WFlemming Illustration
+- [ ]	Power Depot	  |  	Artifact Land	  |  	R	  |  	Daniel Romanovsky
+- [ ]	Power Depot	  |  	Artifact Land	  |  	R	  |  	Lazare Gvimradze
+- [ ]	Power Depot	  |  	Artifact Land	  |  	R	  |  	Daniel Romanovsky
+- [ ]	Power Depot	  |  	Artifact Land	  |  	R	  |  	Lazare Gvimradze
+- [ ]	Raging Ravine	  |  	Land	  |  	R	  |  	Calder Moore
+- [ ]	Raging Ravine	  |  	Land	  |  	R	  |  	BEMOCS
+- [ ]	Raging Ravine	  |  	Land	  |  	R	  |  	Calder Moore
+- [ ]	Raging Ravine	  |  	Land	  |  	R	  |  	BEMOCS
+- [ ]	Scavenger Grounds	  |  	Land	  |  	R	  |  	Andrew Theophilopoulos
+- [ ]	Scavenger Grounds	  |  	Land	  |  	R	  |  	BEMOCS
+- [ ]	Scavenger Grounds	  |  	Land	  |  	R	  |  	Andrew Theophilopoulos
+- [ ]	Scavenger Grounds	  |  	Land	  |  	R	  |  	BEMOCS
+- [ ]	Shambling Vent	  |  	Land	  |  	R	  |  	Mark Poole
+- [ ]	Shambling Vent	  |  	Land	  |  	R	  |  	Denis Freitas
+- [ ]	Shambling Vent	  |  	Land	  |  	R	  |  	Mark Poole
+- [ ]	Shambling Vent	  |  	Land	  |  	R	  |  	Denis Freitas
+- [ ]	Stirring Wildwood	  |  	Land	  |  	R	  |  	Erikas Perl
+- [ ]	Stirring Wildwood	  |  	Land	  |  	R	  |  	Hurca!
+- [ ]	Stirring Wildwood	  |  	Land	  |  	R	  |  	Erikas Perl
+- [ ]	Stirring Wildwood	  |  	Land	  |  	R	  |  	Hurca!
+- [ ]	Sunken Citadel	  |  	Land	  |  	R	  |  	Jonas De Ro
+- [ ]	Sunken Citadel	  |  	Land	  |  	R	  |  	Lazare Gvimradze
+- [ ]	Sunken Citadel	  |  	Land	  |  	R	  |  	Jonas De Ro
+- [ ]	Sunken Citadel	  |  	Land	  |  	R	  |  	Lazare Gvimradze
+- [ ]	Swarmyard	  |  	Land	  |  	R	  |  	Alayna Danner
+- [ ]	Swarmyard	  |  	Land	  |  	R	  |  	Matteo Bassini
+- [ ]	Swarmyard	  |  	Land	  |  	R	  |  	Alayna Danner
+- [ ]	Swarmyard	  |  	Land	  |  	R	  |  	Matteo Bassini
+- [ ]	Terrain Generator	  |  	Land	  |  	R	  |  	Cristi Balanescu
+- [ ]	Terrain Generator	  |  	Land	  |  	R	  |  	BEMOCS
+- [ ]	Terrain Generator	  |  	Land	  |  	R	  |  	Cristi Balanescu
+- [ ]	Terrain Generator	  |  	Land	  |  	R	  |  	BEMOCS
+- [ ]	Thespian's Stage	  |  	Land	  |  	R	  |  	Bruce Brenneise
+- [ ]	Thespian's Stage	  |  	Land	  |  	R	  |  	William Phifer
+- [ ]	Thespian's Stage	  |  	Land	  |  	R	  |  	Bruce Brenneise
+- [ ]	Thespian's Stage	  |  	Land	  |  	R	  |  	William Phifer
+- [ ]	Wandering Fumarole	  |  	Land	  |  	R	  |  	Cristi Balanescu
+- [ ]	Wandering Fumarole	  |  	Land	  |  	R	  |  	Sam Chivers
+- [ ]	Wandering Fumarole	  |  	Land	  |  	R	  |  	Cristi Balanescu
+- [ ]	Wandering Fumarole	  |  	Land	  |  	R	  |  	Sam Chivers
+
+#### Mythic
+- [ ]	Ancient Tomb	  |  	Land	  |  	M	  |  	Bruce Brenneise
+- [ ]	Ancient Tomb	  |  	Land	  |  	M	  |  	Meel Tamphanon
+- [ ]	Ancient Tomb	  |  	Land	  |  	M	  |  	Bruce Brenneise
+- [ ]	Ancient Tomb	  |  	Land	  |  	M	  |  	Meel Tamphanon
+- [ ]	Deserted Temple	  |  	Land	  |  	M	  |  	Jason A. Engle
+- [ ]	Deserted Temple	  |  	Land	  |  	M	  |  	BEMOCS
+- [ ]	Deserted Temple	  |  	Land	  |  	M	  |  	Jason A. Engle
+- [ ]	Deserted Temple	  |  	Land	  |  	M	  |  	BEMOCS
+- [ ]	Dust Bowl	  |  	Land	  |  	M	  |  	Jonas De Ro
+- [ ]	Dust Bowl	  |  	Land	  |  	M	  |  	Aeron Ng
+- [ ]	Dust Bowl	  |  	Land	  |  	M	  |  	Jonas De Ro
+- [ ]	Dust Bowl	  |  	Land	  |  	M	  |  	Aeron Ng
+- [ ]	Gemstone Caverns	  |  	Lgd. Land	  |  	M	  |  	Mark Poole
+- [ ]	Gemstone Caverns	  |  	Lgd. Land	  |  	M	  |  	BEMOCS
+- [ ]	Gemstone Caverns	  |  	Lgd. Land	  |  	M	  |  	Mark Poole
+- [ ]	Gemstone Caverns	  |  	Lgd. Land	  |  	M	  |  	BEMOCS
+- [ ]	Grove of the Burnwillows	  |  	Land	  |  	M	  |  	Aenami
+- [ ]	Grove of the Burnwillows	  |  	Land	  |  	M	  |  	Sam Chivers
+- [ ]	Grove of the Burnwillows	  |  	Land	  |  	M	  |  	Aenami
+- [ ]	Grove of the Burnwillows	  |  	Land	  |  	M	  |  	Sam Chivers
+- [ ]	Inkmoth Nexus	  |  	Land	  |  	M	  |  	Piotr Dura
+- [ ]	Inkmoth Nexus	  |  	Land	  |  	M	  |  	Matteo Bassini
+- [ ]	Inkmoth Nexus	  |  	Land	  |  	M	  |  	Piotr Dura
+- [ ]	Inkmoth Nexus	  |  	Land	  |  	M	  |  	Matteo Bassini
+- [ ]	Inventors' Fair	  |  	Lgd. Land	  |  	M	  |  	Finnian MacManus
+- [ ]	Inventors' Fair	  |  	Lgd. Land	  |  	M	  |  	Sylvia Liu
+- [ ]	Inventors' Fair	  |  	Lgd. Land	  |  	M	  |  	Finnian MacManus
+- [ ]	Inventors' Fair	  |  	Lgd. Land	  |  	M	  |  	Sylvia Liu
+- [ ]	Lotus Field	  |  	Land	  |  	M	  |  	Andrew Mar
+- [ ]	Lotus Field	  |  	Land	  |  	M	  |  	Jack Hughes
+- [ ]	Lotus Field	  |  	Land	  |  	M	  |  	Andrew Mar
+- [ ]	Lotus Field	  |  	Land	  |  	M	  |  	Jack Hughes
+- [ ]	Mana Confluence	  |  	Land	  |  	M	  |  	Sam Burley
+- [ ]	Mana Confluence	  |  	Land	  |  	M	  |  	Matteo Bassini
+- [ ]	Mana Confluence	  |  	Land	  |  	M	  |  	Sam Burley
+- [ ]	Mana Confluence	  |  	Land	  |  	M	  |  	Matteo Bassini
+- [ ]	Mirrorpool	  |  	Land	  |  	M	  |  	Tim Brumley
+- [ ]	Mirrorpool	  |  	Land	  |  	M	  |  	Ann-Sophie De Steur
+- [ ]	Mirrorpool	  |  	Land	  |  	M	  |  	Tim Brumley
+- [ ]	Mirrorpool	  |  	Land	  |  	M	  |  	Ann-Sophie De Steur
+- [ ]	Mutavault	  |  	Land	  |  	M	  |  	Andrew Mar
+- [ ]	Mutavault	  |  	Land	  |  	M	  |  	Aeron Ng
+- [ ]	Mutavault	  |  	Land	  |  	M	  |  	Andrew Mar
+- [ ]	Mutavault	  |  	Land	  |  	M	  |  	Aeron Ng
+- [ ]	Petrified Field	  |  	Land	  |  	M	  |  	Finnian MacManus
+- [ ]	Petrified Field	  |  	Land	  |  	M	  |  	WFlemming Illustration
+- [ ]	Petrified Field	  |  	Land	  |  	M	  |  	Finnian MacManus
+- [ ]	Petrified Field	  |  	Land	  |  	M	  |  	WFlemming Illustration
+- [ ]	Plaza of Heroes	  |  	Land	  |  	M	  |  	John Thacker
+- [ ]	Plaza of Heroes	  |  	Land	  |  	M	  |  	Elaine Lee
+- [ ]	Plaza of Heroes	  |  	Land	  |  	M	  |  	John Thacker
+- [ ]	Plaza of Heroes	  |  	Land	  |  	M	  |  	Elaine Lee
+- [ ]	Reflecting Pool	  |  	Land	  |  	M	  |  	Craig Elliott
+- [ ]	Reflecting Pool	  |  	Land	  |  	M	  |  	Sam Chivers
+- [ ]	Reflecting Pool	  |  	Land	  |  	M	  |  	Craig Elliott
+- [ ]	Reflecting Pool	  |  	Land	  |  	M	  |  	Sam Chivers
+- [ ]	Strip Mine	  |  	Land	  |  	M	  |  	Daniel Romanovsky
+- [ ]	Strip Mine	  |  	Land	  |  	M	  |  	Matteo Bassini
+- [ ]	Strip Mine	  |  	Land	  |  	M	  |  	Daniel Romanovsky
+- [ ]	Strip Mine	  |  	Land	  |  	M	  |  	Matteo Bassini
