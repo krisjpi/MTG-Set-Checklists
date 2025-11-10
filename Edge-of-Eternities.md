@@ -473,3 +473,17 @@
 - [ ]	Evendo, Waking Haven	  |  	Land	  |  	M	  |  	Piotr Dura
 - [ ]	Secluded Starforge	  |  	Land	  |  	M	  |  	Makoto Yukimura
 - [ ]	Secluded Starforge	  |  	Land	  |  	M	  |  	Makoto Yukimura
+
+
+### Special Guests
+#### Mythic
+- [ ]	Burgeoning	  |  	{G}	  |  	Enchantment	  |  	M	  |  	Stephen Andrade
+- [ ]	Darkness	  |  	{B}	  |  	Instant	  |  	M	  |  	Wojtek Łebski
+- [ ]	Deafening Silence	  |  	{W}	  |  	Enchantment	  |  	M	  |  	Skinnyelbows
+- [ ]	Warping Wail	  |  	{1}{C}	  |  	Instant	  |  	M	  |  	Alex Horley-Orlandelli
+- [ ]	Robe of Stars	  |  	{1}{W}	  |  	Artifact	  |  	M	  |  	Stephen Andrade
+- [ ]	Green Sun's Zenith	  |  	{X}{G}	  |  	Sorcery	  |  	M	  |  	Warren Mahy
+- [ ]	Paradox Haze	  |  	{2}{U}	  |  	Enchantment	  |  	M	  |  	Stephen Andrade
+- [ ]	Magus of the Moon	  |  	{2}{R}	  |  	Creature	  |  	M	  |  	David Robert Hovey
+- [ ]	Nexus of Fate	  |  	{5}{U}{U}	  |  	Instant	  |  	M	  |  	Gaboleps
+- [ ]	Sliver Overlord	  |  	{W}{U}{B}{R}{G}	  |  	Lgd. Creature	  |  	M	  |  	James Bousema
