@@ -447,90 +447,91 @@
 ### Breaking News
 
 #### Uncommon
-- [ ]	16	  |  	Murder	  |  	{1}{B}{B}	  |  	Instant	  |  	U	  |  	Willem Hampson											
-- [ ]	24	  |  	Fling	  |  	{1}{R}	  |  	Instant	  |  	U	  |  	Florey											
-- [ ]	53	  |  	Savage Smash	  |  	{1}{R}{G}	  |  	Sorcery	  |  	U	  |  	Magnus Jansson											
-- [ ]	3	  |  	Journey to Nowhere	  |  	{1}{W}	  |  	Enchantment	  |  	U	  |  	Adam Volker											
-- [ ]	2	  |  	Fierce Retribution	  |  	{1}{W}	  |  	Instant	  |  	U	  |  	Magnus Jansson											
-- [ ]	42	  |  	Decisive Denial	  |  	{G}{U}	  |  	Instant	  |  	U	  |  	Mark A. Nelson											
-- [ ]	52	  |  	Ride Down	  |  	{R}{W}	  |  	Instant	  |  	U	  |  	William Tempest											
-- [ ]	56	  |  	Tyrant's Scorn	  |  	{U}{B}	  |  	Instant	  |  	U	  |  	William Tempest											
-- [ ]	10	  |  	Essence Capture	  |  	{U}{U}	  |  	Instant	  |  	U	  |  	Adam Volker											
-- [ ]	47	  |  	Humiliate	  |  	{W}{B}	  |  	Sorcery	  |  	U	  |  	Mark A. Nelson											
-- [ ]	46	  |  	Hindering Light	  |  	{W}{U}	  |  	Instant	  |  	U	  |  	Magnus Jansson											
-- [ ]	14	  |  	Heartless Pillage	  |  	{2}{B}	  |  	Sorcery	  |  	U	  |  	Mark A. Nelson											
-- [ ]	55	  |  	Terminal Agony	  |  	{2}{B}{R}	  |  	Sorcery	  |  	U	  |  	Michael Walsh											
-- [ ]	28	  |  	Clear Shot	  |  	{2}{G}	  |  	Instant	  |  	U	  |  	Justine Mara Andersen											
-- [ ]	33	  |  	Thornado	  |  	{2}{G}	  |  	Instant	  |  	U	  |  	Yohann Schepacz											
-- [ ]	38	  |  	Buried in the Garden	  |  	{2}{G}{W}	  |  	Enchantment	  |  	U	  |  	Justine Mara Andersen											
-- [ ]	26	  |  	Skewer the Critics	  |  	{2}{R}	  |  	Sorcery	  |  	U	  |  	Florey											
-- [ ]	13	  |  	Repulse	  |  	{2}{U}	  |  	Instant	  |  	U	  |  	Mark A. Nelson											
-- [ ]	48	  |  	Hypothesizzle	  |  	{3}{U}{R}	  |  	Instant	  |  	U	  |  	Mark A. Nelson											
-- [ ]	36	  |  	Back for More	  |  	{4}{B}{G}	  |  	Instant	  |  	U	  |  	Florey											
+- [ ]	16	  |  	Murder	  |  	{1}{B}{B}	  |  	Instant	  |  	U	  |  	Willem Hampson
+- [ ]	24	  |  	Fling	  |  	{1}{R}	  |  	Instant	  |  	U	  |  	Florey
+- [ ]	53	  |  	Savage Smash	  |  	{1}{R}{G}	  |  	Sorcery	  |  	U	  |  	Magnus Jansson
+- [ ]	3	  |  	Journey to Nowhere	  |  	{1}{W}	  |  	Enchantment	  |  	U	  |  	Adam Volker
+- [ ]	2	  |  	Fierce Retribution	  |  	{1}{W}	  |  	Instant	  |  	U	  |  	Magnus Jansson
+- [ ]	42	  |  	Decisive Denial	  |  	{G}{U}	  |  	Instant	  |  	U	  |  	Mark A. Nelson
+- [ ]	52	  |  	Ride Down	  |  	{R}{W}	  |  	Instant	  |  	U	  |  	William Tempest
+- [ ]	56	  |  	Tyrant's Scorn	  |  	{U}{B}	  |  	Instant	  |  	U	  |  	William Tempest
+- [ ]	10	  |  	Essence Capture	  |  	{U}{U}	  |  	Instant	  |  	U	  |  	Adam Volker
+- [ ]	47	  |  	Humiliate	  |  	{W}{B}	  |  	Sorcery	  |  	U	  |  	Mark A. Nelson
+- [ ]	46	  |  	Hindering Light	  |  	{W}{U}	  |  	Instant	  |  	U	  |  	Magnus Jansson
+- [ ]	14	  |  	Heartless Pillage	  |  	{2}{B}	  |  	Sorcery	  |  	U	  |  	Mark A. Nelson
+- [ ]	55	  |  	Terminal Agony	  |  	{2}{B}{R}	  |  	Sorcery	  |  	U	  |  	Michael Walsh
+- [ ]	28	  |  	Clear Shot	  |  	{2}{G}	  |  	Instant	  |  	U	  |  	Justine Mara Andersen
+- [ ]	33	  |  	Thornado	  |  	{2}{G}	  |  	Instant	  |  	U	  |  	Yohann Schepacz
+- [ ]	38	  |  	Buried in the Garden	  |  	{2}{G}{W}	  |  	Enchantment	  |  	U	  |  	Justine Mara Andersen
+- [ ]	26	  |  	Skewer the Critics	  |  	{2}{R}	  |  	Sorcery	  |  	U	  |  	Florey
+- [ ]	13	  |  	Repulse	  |  	{2}{U}	  |  	Instant	  |  	U	  |  	Mark A. Nelson
+- [ ]	48	  |  	Hypothesizzle	  |  	{3}{U}{R}	  |  	Instant	  |  	U	  |  	Mark A. Nelson
+- [ ]	36	  |  	Back for More	  |  	{4}{B}{G}	  |  	Instant	  |  	U	  |  	Florey
 
 #### Rare
-- [ ]	18	  |  	Reanimate	  |  	{B}	  |  	Sorcery	  |  	R	  |  	Michal Ivan											
-- [ ]	6	  |  	Path to Exile	  |  	{W}	  |  	Instant	  |  	R	  |  	Calder Moore											
-- [ ]	60	  |  	Voidslime	  |  	{G}{U}{U}	  |  	Instant	  |  	R	  |  	Tyler Crook											
-- [ ]	44	  |  	Endless Detour	  |  	{G}{W}{U}	  |  	Instant	  |  	R	  |  	Yohann Schepacz											
-- [ ]	8	  |  	Archmage's Charm	  |  	{U}{U}{U}	  |  	Instant	  |  	R	  |  	Justine Mara Andersen											
-- [ ]	59	  |  	Void Rend	  |  	{W}{U}{B}	  |  	Instant	  |  	R	  |  	William Tempest											
-- [ ]	37	  |  	Bedevil	  |  	{B}{B}{R}	  |  	Instant	  |  	R	  |  	Arik Roper											
-- [ ]	23	  |  	Electrodominance	  |  	{X}{R}{R}	  |  	Instant	  |  	R	  |  	Mark A. Nelson											
-- [ ]	30	  |  	Pest Infestation	  |  	{X}{X}{G}	  |  	Sorcery	  |  	R	  |  	Michael Walsh											
-- [ ]	40	  |  	Cruel Ultimatum	  |  	{U}{U}{B}{B}{B}{R}{R}	  |  	Sorcery	  |  	R	  |  	Michal Ivan											
-- [ ]	58	  |  	Villainous Wealth	  |  	{X}{B}{G}{U}	  |  	Sorcery	  |  	R	  |  	Magnus Jansson											
-- [ ]	65	  |  	Dust Bowl	  |  		  |  	Land	  |  	R	  |  	Yohann Schepacz											
-- [ ]	15	  |  	Imp's Mischief	  |  	{1}{B}	  |  	Instant	  |  	R	  |  	Justine Mara Andersen											
-- [ ]	27	  |  	Skullcrack	  |  	{1}{R}	  |  	Instant	  |  	R	  |  	Mark A. Nelson											
-- [ ]	64	  |  	Unlicensed Hearse	  |  	{2}	  |  	Artifact	  |  	R	  |  	Sean Murray											
-- [ ]	34	  |  	Abrupt Decay	  |  	{B}{G}	  |  	Instant	  |  	R	  |  	Sean Murray											
-- [ ]	19	  |  	Surgical Extraction	  |  	{B/P}	  |  	Instant	  |  	R	  |  	Arik Roper											
-- [ ]	32	  |  	Primal Might	  |  	{X}{G}	  |  	Sorcery	  |  	R	  |  	Jon Juarez											
-- [ ]	54	  |  	Siphon Insight	  |  	{U}{B}	  |  	Instant	  |  	R	  |  	Michal Ivan											
-- [ ]	57	  |  	Vanishing Verse	  |  	{W}{B}	  |  	Instant	  |  	R	  |  	Sean Murray											
-- [ ]	5	  |  	Pariah	  |  	{2}{W}	  |  	Enchantment	  |  	R	  |  	Magnus Jansson											
-- [ ]	21	  |  	Collective Defiance	  |  	{1}{R}{R}	  |  	Sorcery	  |  	R	  |  	William Tempest											
-- [ ]	49	  |  	Ionize	  |  	{1}{U}{R}	  |  	Instant	  |  	R	  |  	Arik Roper											
-- [ ]	43	  |  	Detention Sphere	  |  	{1}{W}{U}	  |  	Enchantment	  |  	R	  |  	Justine Mara Andersen											
-- [ ]	41	  |  	Decimate	  |  	{2}{R}{G}	  |  	Sorcery	  |  	R	  |  	Yohann Schepacz											
-- [ ]	51	  |  	Outlaws' Merriment	  |  	{1}{R}{W}{W}	  |  	Enchantment	  |  	R	  |  	Willem Hampson											
-- [ ]	31	  |  	Primal Command	  |  	{3}{G}{G}	  |  	Sorcery	  |  	R	  |  	Arik Roper											
-- [ ]	7	  |  	Archive Trap	  |  	{3}{U}{U}	  |  	Instant	  |  	R	  |  	William Tempest											
-- [ ]	1	  |  	Fell the Mighty	  |  	{4}{W}	  |  	Sorcery	  |  	R	  |  	Magnus Jansson											
-- [ ]	9	  |  	Commandeer	  |  	{5}{U}{U}	  |  	Instant	  |  	R	  |  	Magnus Jansson											
+- [ ]	18	  |  	Reanimate	  |  	{B}	  |  	Sorcery	  |  	R	  |  	Michal Ivan
+- [ ]	6	  |  	Path to Exile	  |  	{W}	  |  	Instant	  |  	R	  |  	Calder Moore
+- [ ]	60	  |  	Voidslime	  |  	{G}{U}{U}	  |  	Instant	  |  	R	  |  	Tyler Crook
+- [ ]	44	  |  	Endless Detour	  |  	{G}{W}{U}	  |  	Instant	  |  	R	  |  	Yohann Schepacz
+- [ ]	8	  |  	Archmage's Charm	  |  	{U}{U}{U}	  |  	Instant	  |  	R	  |  	Justine Mara Andersen
+- [ ]	59	  |  	Void Rend	  |  	{W}{U}{B}	  |  	Instant	  |  	R	  |  	William Tempest
+- [ ]	37	  |  	Bedevil	  |  	{B}{B}{R}	  |  	Instant	  |  	R	  |  	Arik Roper
+- [ ]	23	  |  	Electrodominance	  |  	{X}{R}{R}	  |  	Instant	  |  	R	  |  	Mark A. Nelson
+- [ ]	30	  |  	Pest Infestation	  |  	{X}{X}{G}	  |  	Sorcery	  |  	R	  |  	Michael Walsh
+- [ ]	40	  |  	Cruel Ultimatum	  |  	{U}{U}{B}{B}{B}{R}{R}	  |  	Sorcery	  |  	R	  |  	Michal Ivan
+- [ ]	58	  |  	Villainous Wealth	  |  	{X}{B}{G}{U}	  |  	Sorcery	  |  	R	  |  	Magnus Jansson
+- [ ]	65	  |  	Dust Bowl	  |  		  |  	Land	  |  	R	  |  	Yohann Schepacz
+- [ ]	15	  |  	Imp's Mischief	  |  	{1}{B}	  |  	Instant	  |  	R	  |  	Justine Mara Andersen
+- [ ]	27	  |  	Skullcrack	  |  	{1}{R}	  |  	Instant	  |  	R	  |  	Mark A. Nelson
+- [ ]	64	  |  	Unlicensed Hearse	  |  	{2}	  |  	Artifact	  |  	R	  |  	Sean Murray
+- [ ]	34	  |  	Abrupt Decay	  |  	{B}{G}	  |  	Instant	  |  	R	  |  	Sean Murray
+- [ ]	19	  |  	Surgical Extraction	  |  	{B/P}	  |  	Instant	  |  	R	  |  	Arik Roper
+- [ ]	32	  |  	Primal Might	  |  	{X}{G}	  |  	Sorcery	  |  	R	  |  	Jon Juarez
+- [ ]	54	  |  	Siphon Insight	  |  	{U}{B}	  |  	Instant	  |  	R	  |  	Michal Ivan
+- [ ]	57	  |  	Vanishing Verse	  |  	{W}{B}	  |  	Instant	  |  	R	  |  	Sean Murray
+- [ ]	5	  |  	Pariah	  |  	{2}{W}	  |  	Enchantment	  |  	R	  |  	Magnus Jansson
+- [ ]	21	  |  	Collective Defiance	  |  	{1}{R}{R}	  |  	Sorcery	  |  	R	  |  	William Tempest
+- [ ]	49	  |  	Ionize	  |  	{1}{U}{R}	  |  	Instant	  |  	R	  |  	Arik Roper
+- [ ]	43	  |  	Detention Sphere	  |  	{1}{W}{U}	  |  	Enchantment	  |  	R	  |  	Justine Mara Andersen
+- [ ]	41	  |  	Decimate	  |  	{2}{R}{G}	  |  	Sorcery	  |  	R	  |  	Yohann Schepacz
+- [ ]	51	  |  	Outlaws' Merriment	  |  	{1}{R}{W}{W}	  |  	Enchantment	  |  	R	  |  	Willem Hampson
+- [ ]	31	  |  	Primal Command	  |  	{3}{G}{G}	  |  	Sorcery	  |  	R	  |  	Arik Roper
+- [ ]	7	  |  	Archive Trap	  |  	{3}{U}{U}	  |  	Instant	  |  	R	  |  	William Tempest
+- [ ]	1	  |  	Fell the Mighty	  |  	{4}{W}	  |  	Sorcery	  |  	R	  |  	Magnus Jansson
+- [ ]	9	  |  	Commandeer	  |  	{5}{U}{U}	  |  	Instant	  |  	R	  |  	Magnus Jansson
 
 #### Mythic
-- [ ]	20	  |  	Thoughtseize	  |  	{B}	  |  	Sorcery	  |  	M	  |  	William Tempest											
-- [ ]	70	  |  	Thoughtseize	  |  	{B}	  |  	Sorcery	  |  	M	  |  	William Tempest											
-- [ ]	62	  |  	Grindstone	  |  	{1}	  |  	Artifact	  |  	M	  |  	Alejandro Mirabal											
-- [ ]	79	  |  	Grindstone	  |  	{1}	  |  	Artifact	  |  	M	  |  	Alejandro Mirabal											
-- [ ]	11	  |  	Mana Drain	  |  	{U}{U}	  |  	Instant	  |  	M	  |  	Florey											
-- [ ]	67	  |  	Mana Drain	  |  	{U}{U}	  |  	Instant	  |  	M	  |  	Florey											
-- [ ]	50	  |  	Oko, Thief of Crowns	  |  	{1}{G}{U}	  |  	Lgd. Planeswalker	  |  	M	  |  	Michael Walsh											
-- [ ]	77	  |  	Oko, Thief of Crowns	  |  	{1}{G}{U}	  |  	Lgd. Planeswalker	  |  	M	  |  	Michael Walsh											
-- [ ]	35	  |  	Anguished Unmaking	  |  	{1}{W}{B}	  |  	Instant	  |  	M	  |  	Arik Roper											
-- [ ]	74	  |  	Anguished Unmaking	  |  	{1}{W}{B}	  |  	Instant	  |  	M	  |  	Arik Roper											
-- [ ]	29	  |  	Force of Vigor	  |  	{2}{G}{G}	  |  	Instant	  |  	M	  |  	Adam Volker											
-- [ ]	73	  |  	Force of Vigor	  |  	{2}{G}{G}	  |  	Instant	  |  	M	  |  	Adam Volker											
-- [ ]	12	  |  	Mindbreak Trap	  |  	{2}{U}{U}	  |  	Instant	  |  	M	  |  	Arik Roper											
-- [ ]	68	  |  	Mindbreak Trap	  |  	{2}{U}{U}	  |  	Instant	  |  	M	  |  	Arik Roper											
-- [ ]	25	  |  	Indomitable Creativity	  |  	{X}{R}{R}{R}	  |  	Sorcery	  |  	M	  |  	Tyler Crook											
-- [ ]	72	  |  	Indomitable Creativity	  |  	{X}{R}{R}{R}	  |  	Sorcery	  |  	M	  |  	Tyler Crook											
-- [ ]	39	  |  	Crime // Punishment	  |  	{3}{W}{B} // {X}{B}{G}	  |  	Sorcery // Sorcery	  |  	M	  |  	William Tempest											
-- [ ]	75	  |  	Crime // Punishment	  |  	{3}{W}{B} // {X}{B}{G}	  |  	Sorcery // Sorcery	  |  	M	  |  	William Tempest											
-- [ ]	45	  |  	Fractured Identity	  |  	{3}{W}{U}	  |  	Sorcery	  |  	M	  |  	Yohann Schepacz											
-- [ ]	76	  |  	Fractured Identity	  |  	{3}{W}{U}	  |  	Sorcery	  |  	M	  |  	Yohann Schepacz											
-- [ ]	22	  |  	Crackle with Power	  |  	{X}{X}{X}{R}{R}	  |  	Sorcery	  |  	M	  |  	Mark A. Nelson											
-- [ ]	71	  |  	Crackle with Power	  |  	{X}{X}{X}{R}{R}	  |  	Sorcery	  |  	M	  |  	Mark A. Nelson											
-- [ ]	4	  |  	Leyline Binding	  |  	{5}{W}	  |  	Enchantment	  |  	M	  |  	Yohann Schepacz											
-- [ ]	66	  |  	Leyline Binding	  |  	{5}{W}	  |  	Enchantment	  |  	M	  |  	Yohann Schepacz											
-- [ ]	61	  |  	Contagion Engine	  |  	{6}	  |  	Artifact	  |  	M	  |  	Magnus Jansson											
-- [ ]	78	  |  	Contagion Engine	  |  	{6}	  |  	Artifact	  |  	M	  |  	Magnus Jansson											
-- [ ]	63	  |  	Mindslaver	  |  	{6}	  |  	Lgd. Artifact	  |  	M	  |  	Gossip Goblin											
-- [ ]	80	  |  	Mindslaver	  |  	{6}	  |  	Lgd. Artifact	  |  	M	  |  	Gossip Goblin											
-- [ ]	17	  |  	Overwhelming Forces	  |  	{6}{B}{B}	  |  	Sorcery	  |  	M	  |  	Willem Hampson											
-- [ ]	69	  |  	Overwhelming Forces	  |  	{6}{B}{B}	  |  	Sorcery	  |  	M	  |  	Willem Hampson											
+- [ ]	20	  |  	Thoughtseize	  |  	{B}	  |  	Sorcery	  |  	M	  |  	William Tempest
+- [ ]	70	  |  	Thoughtseize	  |  	{B}	  |  	Sorcery	  |  	M	  |  	William Tempest
+- [ ]	62	  |  	Grindstone	  |  	{1}	  |  	Artifact	  |  	M	  |  	Alejandro Mirabal
+- [ ]	79	  |  	Grindstone	  |  	{1}	  |  	Artifact	  |  	M	  |  	Alejandro Mirabal
+- [ ]	11	  |  	Mana Drain	  |  	{U}{U}	  |  	Instant	  |  	M	  |  	Florey
+- [ ]	67	  |  	Mana Drain	  |  	{U}{U}	  |  	Instant	  |  	M	  |  	Florey
+- [ ]	50	  |  	Oko, Thief of Crowns	  |  	{1}{G}{U}	  |  	Lgd. Planeswalker	  |  	M	  |  	Michael Walsh
+- [ ]	77	  |  	Oko, Thief of Crowns	  |  	{1}{G}{U}	  |  	Lgd. Planeswalker	  |  	M	  |  	Michael Walsh
+- [ ]	35	  |  	Anguished Unmaking	  |  	{1}{W}{B}	  |  	Instant	  |  	M	  |  	Arik Roper
+- [ ]	74	  |  	Anguished Unmaking	  |  	{1}{W}{B}	  |  	Instant	  |  	M	  |  	Arik Roper
+- [ ]	29	  |  	Force of Vigor	  |  	{2}{G}{G}	  |  	Instant	  |  	M	  |  	Adam Volker
+- [ ]	73	  |  	Force of Vigor	  |  	{2}{G}{G}	  |  	Instant	  |  	M	  |  	Adam Volker
+- [ ]	12	  |  	Mindbreak Trap	  |  	{2}{U}{U}	  |  	Instant	  |  	M	  |  	Arik Roper
+- [ ]	68	  |  	Mindbreak Trap	  |  	{2}{U}{U}	  |  	Instant	  |  	M	  |  	Arik Roper
+- [ ]	25	  |  	Indomitable Creativity	  |  	{X}{R}{R}{R}	  |  	Sorcery	  |  	M	  |  	Tyler Crook
+- [ ]	72	  |  	Indomitable Creativity	  |  	{X}{R}{R}{R}	  |  	Sorcery	  |  	M	  |  	Tyler Crook
+- [ ]	39	  |  	Crime // Punishment	  |  	{3}{W}{B} // {X}{B}{G}	  |  	Sorcery // Sorcery	  |  	M	  |  	William Tempest
+- [ ]	75	  |  	Crime // Punishment	  |  	{3}{W}{B} // {X}{B}{G}	  |  	Sorcery // Sorcery	  |  	M	  |  	William Tempest
+- [ ]	45	  |  	Fractured Identity	  |  	{3}{W}{U}	  |  	Sorcery	  |  	M	  |  	Yohann Schepacz
+- [ ]	76	  |  	Fractured Identity	  |  	{3}{W}{U}	  |  	Sorcery	  |  	M	  |  	Yohann Schepacz
+- [ ]	22	  |  	Crackle with Power	  |  	{X}{X}{X}{R}{R}	  |  	Sorcery	  |  	M	  |  	Mark A. Nelson
+- [ ]	71	  |  	Crackle with Power	  |  	{X}{X}{X}{R}{R}	  |  	Sorcery	  |  	M	  |  	Mark A. Nelson
+- [ ]	4	  |  	Leyline Binding	  |  	{5}{W}	  |  	Enchantment	  |  	M	  |  	Yohann Schepacz
+- [ ]	66	  |  	Leyline Binding	  |  	{5}{W}	  |  	Enchantment	  |  	M	  |  	Yohann Schepacz
+- [ ]	61	  |  	Contagion Engine	  |  	{6}	  |  	Artifact	  |  	M	  |  	Magnus Jansson
+- [ ]	78	  |  	Contagion Engine	  |  	{6}	  |  	Artifact	  |  	M	  |  	Magnus Jansson
+- [ ]	63	  |  	Mindslaver	  |  	{6}	  |  	Lgd. Artifact	  |  	M	  |  	Gossip Goblin
+- [ ]	80	  |  	Mindslaver	  |  	{6}	  |  	Lgd. Artifact	  |  	M	  |  	Gossip Goblin
+- [ ]	17	  |  	Overwhelming Forces	  |  	{6}{B}{B}	  |  	Sorcery	  |  	M	  |  	Willem Hampson
+- [ ]	69	  |  	Overwhelming Forces	  |  	{6}{B}{B}	  |  	Sorcery	  |  	M	  |  	Willem Hampson
+
 
 ### The Big Score
 
